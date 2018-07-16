@@ -5,7 +5,7 @@
   "description": "Lightweight UI components for Vue.js based on Bulma",
   "author": "Rafael Beraldo <rafael.pimpa@gmail.com>",
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "typings": "types/index.d.ts",
   "files": [
     "lib",
